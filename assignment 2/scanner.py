@@ -1,6 +1,6 @@
 """
-Name: YOUR NAME
-Roll No: YOUR ROLL NO
+Name: Himanshu
+Roll No: 2301010472
 Course: Image Processing & Computer Vision
 Assignment: Noise Modeling and Image Restoration
 """
